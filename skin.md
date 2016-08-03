@@ -8,7 +8,7 @@
 
 导航菜单、logo、点赞等内容是分离于krpano并覆盖其上的。通常的dom结构如下图：
 
-![](./../images/dom.png)
+![](//flyingliu1.gitbooks.io/gitbook/content/images/dom.png)
 
 这部分内容我们可以单独引用独立的CSS，JS文件来改变其内容与界面。
 
@@ -29,7 +29,7 @@
 
 - CSS和JS文件会以ajax同步的形式插入到**页面头部**。
 
-![](./../images/style.png)
+    ![](//flyingliu1.gitbooks.io/gitbook/content/images/style.png)
 
     这里要注意的是文件路径，css、js是相当于直接写在页面上的，如果资源文件路径是相对路径，要写相对于当前页面的路径，而不是相对于CSS的引入路径，所以CSS中引入资源（图片地址）最好是绝对路径。
     
