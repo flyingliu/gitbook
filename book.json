@@ -1,0 +1,13 @@
+{
+    "title" : "云曈编辑器帮助文档",
+    "description" : "云曈编辑器帮助文档",
+    "author" : "liufeilai",
+    "generator": "site",
+    "language" : "zh-hans",
+    "links" : {
+        "sidebar" : {
+            "Home" : "http://www.yuntongzi.com"
+        }
+    },
+    "plugins": ["-livereload"]
+}
