@@ -11,6 +11,7 @@ switchOff | name,type | 设置开关，传入开关名和值
 
 
 开关名 |  值
+-----|----
 hotspot | Boolean value
 gyro | Boolean value
 music | Boolean value
